@@ -6,12 +6,11 @@ header: images/Fig1long.jpg
 footer: images/background.jpg
 proofer: false
 
-url: https://off1122.github.io
-baseurl: /Chen-lab
+baseURL: "https://off1122.github.io/Chen-lab/"
 
 # site social media and other links
 links:
-  email: chenchangya@ihcams.ac.ccn
+  email: chenchangya@ihcams.ac.cn
   orcid: 0000-0001-8713-9213
   google-scholar: ETJoidYAAAAJ
   github: your-lab
