@@ -6,6 +6,9 @@ header: images/Fig1long.jpg
 footer: images/background.jpg
 proofer: false
 
+url: https://off1122.github.io
+baseurl: /Chen-lab
+
 # site social media and other links
 links:
   email: chenchangya@ihcams.ac.ccn
