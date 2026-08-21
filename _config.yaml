@@ -2,13 +2,13 @@
 title: Chen Lab
 subtitle: Single-Cell Multi-Omics and Leukemia Research
 description: We integrate single-cell multi-omics and bioinformatics to study leukemia stem cells, therapeutic resistance, and disease relapse, with the goal of discovering novel therapeutic targets and improving treatment outcomes.
-header: images/background.jpg
+header: images/Fig1long.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@your-lab.com
+  email: chenchangya@ihcams.ac.ccn
   orcid: 0000-0001-8713-9213
   google-scholar: ETJoidYAAAAJ
   github: your-lab
