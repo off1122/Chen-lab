@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: Lab Website Template
-subtitle: by the Greene Lab
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+title: Chen Lab
+subtitle: Single-Cell Multi-Omics and Leukemia Research
+description: We integrate single-cell multi-omics and bioinformatics to study leukemia stem cells, therapeutic resistance, and disease relapse, with the goal of discovering novel therapeutic targets and improving treatment outcomes.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
