@@ -1,20 +1,14 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: Changya Chen（陈昌亚）
+image: images/photos/ChangyaChen.jpg
 role: principal-investigator
-affiliation: University of Colorado
+affiliation: Ph.D in Genetics, University of Iowa
 aliases:
-  - J. Smith
-  - J Smith
+  - Changya Chen
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  email: chenchangya@ihcams.ac.cn
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Changya Chen is a Principal Investigator at the Institute of Hematology & Blood Diseases Hospital, Chinese Academy of Medical Sciences & Peking Union Medical College. 
+He earned his Ph.D. in Genetics from the University of Iowa in 2017. He completed his postdoctoral training at the University of Pennsylvania / Children's Hospital of Philadelphia from 2018 to January 2024. Prior to that, he obtained his Bachelor's degree in Life Sciences from Peking University in 2011. 
+His research focuses on leveraging single-cell multi-omics and computational biology to elucidate the mechanisms of pathogenesis and drug resistance in hematological disorders.
