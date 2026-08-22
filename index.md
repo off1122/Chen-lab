@@ -1,10 +1,9 @@
 ---
 ---
 
-# Lab Website Template
+# Welcome to the frontier of single-cell multi-omics and hematological disease research!
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
+Our group is dedicated to integrating single-cell multi-omics and bioinformatics to elucidate the pathogenic and drug resistance mechanisms of hematological diseases. Welcome to our team!
 
 {%
   include button.html
@@ -24,8 +23,7 @@ Spend less time worrying about managing a website and citations, and more time r
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+We embrace a multidisciplinary approach to address pressing challenges in hematological diseases.
 {%
   include button.html
   link="research"
@@ -47,7 +45,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are committed to scientific rigor, transparency, and reproducibility in advancing hematological disease research through single-cell multi-omics and bioinformatics.
 
 {%
   include button.html
@@ -72,7 +70,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are growing and actively recruiting outstanding researchers across all career stages!
 
 {%
   include button.html
@@ -87,7 +85,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/photos/group_photo.jpg"
   link="team"
   title="Our Team"
   text=text
