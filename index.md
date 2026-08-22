@@ -37,7 +37,7 @@ We embrace a multidisciplinary approach to address pressing challenges in hemato
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/photo/research.png"
   link="research"
   title="Our Research"
   text=text
@@ -60,7 +60,7 @@ We are committed to scientific rigor, transparency, and reproducibility in advan
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/photos/publication.png"
   link="projects"
   title="Our Projects"
   flip=true
