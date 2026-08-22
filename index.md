@@ -37,7 +37,7 @@ We embrace a multidisciplinary approach to address pressing challenges in hemato
 
 {%
   include feature.html
-  image="images/photo/research.png"
+  image="images/photos/research.png"
   link="research"
   title="Our Research"
   text=text
