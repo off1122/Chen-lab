@@ -23,8 +23,7 @@ We are committed to fostering an inclusive and collaborative environment where d
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-We are always looking for individuals of all levels and backgrounds to join our team and contribute their unique talents and perspectives.
-Join us today in our mission to uncover the secrets of gene regulation and make a difference in the world of regulatory genomics!
+Join us to make a difference in blood cancer research.
 
 {% include button.html icon="fa-solid fa-users" text="Join the Team" link="join" style="button" %}
 
