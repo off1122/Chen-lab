@@ -7,9 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-We're a team of scientists using computational and quantitative tools to advance our understanding of gene regulation in mammalian cells.
-We believe that collaboration and community are crucial to advancing scientific research in this field.
-We promote a culture of equality within our team, where each member is valued and our differences are recognized and celebrated with respect and admiration.
+Our team brings together computational and experimental scientists to study hematological diseases through the lens of single-cell multi-omics. 
+We are committed to fostering an inclusive and collaborative environment where diverse ideas thrive and every contribution is valued.
 
 {% include section.html %}
 
