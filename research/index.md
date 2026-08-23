@@ -10,8 +10,6 @@ nav:
 Our research interests lie in integrating single-cell multi-omics and bioinformatics to investigate the pathogenesis and drug resistance mechanisms of hematological diseases. Over the next five years, our lab will focus on: (1) identifying specific targets against stem cells in B‑cell leukemia; (2) elucidating the mechanisms of drug resistance and relapse in high‑risk B‑cell leukemia, screening potential drug targets to improve therapeutic efficacy; (3) performing pan‑cancer analyses to discover common targets for leukemia stem cells; and (4) dissecting the mechanisms of CAR‑T therapy in hematological diseases and exploring strategies to enhance its effectiveness.
 
 
-(Click [here](/publications) to see the list of selected publications from our lab)
-
 {% include section.html %}
 
 ### 1. UNKNOWN.
