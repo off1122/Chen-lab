@@ -7,8 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Welcome to the Chen Lab Blog.
+
+Here, we share the lighter side of lab life — conference trips, group dinners, hiking adventures, and moments that don't make it into our papers. Just fun, friendship, and a little bit of science along the way. Enjoy!
 
 {% include section.html %}
 
