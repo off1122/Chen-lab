@@ -1,6 +1,6 @@
 ---
 name: Liyi Mao（毛丽怡）
-image: images/photos/LiyiMao.heic
+image: images/photos/LiyiMao.jpg
 role: master
 aliases:
   - Liyi Mao
