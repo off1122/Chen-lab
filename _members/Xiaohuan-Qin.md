@@ -1,7 +1,7 @@
 ---
 name: Xiaohuan Qin（覃小桓）
-image: images/photos/XiaohuanQin.jpg
-role: phD
+image: images/photos/XiaohuanQin.svg
+role: phd
 aliases:
   - Xiaohuan Qin
 links:
