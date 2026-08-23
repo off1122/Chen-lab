@@ -1,7 +1,7 @@
 ---
 title: Team
 nav:
-  order: 3
+  order: 4
   tooltip: About our team
 ---
 
@@ -13,8 +13,15 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
+{% include list.html data="members" component="portrait" filter="role == 'research-assistant-professor'" %}
+{% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd'" %}
+{% include list.html data="members" component="portrait" filter="role == 'master'" %}
+{% include list.html data="members" component="portrait" filter="role == 'research-assistant'" %}
+
+
+
 
 {% include section.html background="images/background.jpg" dark=true %}
 
