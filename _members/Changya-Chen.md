@@ -7,6 +7,7 @@ aliases:
   - Changya Chen
 links:
   email: chenchangya@ihcams.ac.cn
+  google-scholar: lVkwT_YAAAAJ
 ---
 
 Changya Chen is a Principal Investigator at the Institute of Hematology & Blood Diseases Hospital, Chinese Academy of Medical Sciences & Peking Union Medical College. 
