@@ -10,14 +10,15 @@ nav:
 We are a curious team of scientists studying blood cancers using single‑cell genomics and bioinformatics. We care deeply about our science and about each other. We strive to be rigorous, kind, and open‑minded — and we have a lot of fun along the way.
 
 We are currently opening positions for
-[Postdoctoral Fellow (博士后)](#postdoctoral-fellow-in-computational-biology-中文链接),
+[Postdoctoral Fellow (博士后)](#postdoctoral-fellow),
 [Graduate Student (硕士/博士研究生)](#graduate-students).
 
 {% include section.html %}
 
-# {% include icon.html icon="fa-solid fa-glasses" %}Postdoctoral Fellow ([中文链接](https://www.westlake.edu.cn/Careers/OpenPositions/202305/t20230522_28494.shtml))
+# {% include icon.html icon="fa-solid fa-glasses" %}Postdoctoral Fellow
 
 We are looking for postdoctoral fellows in bioinformatics, molecular biology, or related fields. Candidates should have a PhD, first‑author SCI publications, and strong skills in either wet‑lab or dry‑lab research. Responsibilities include leading independent projects, mentoring students, and contributing to grant writing. 
+
 For consideration, please send your CV and a brief cover letter to chenchangya@ihcams.ac.cn
 
 {% include section.html %}
