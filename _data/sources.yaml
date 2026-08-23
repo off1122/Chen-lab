@@ -1,23 +1,35 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+#########################
+# Featured publications #
+#########################
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: doi:10.1182/blood.2024027270
+  _title: Single-cell panleukemia signatures of HSPC-like blasts predict drug response and clinical outcome
+  image: "images/publications/blood-2025.jpg"
+  group: featured
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+
+- id: doi:10.1038/s43018-024-00863-5
+  _title: A multiomic atlas identifies a treatment-resistant, bone marrow progenitor-like cell population in T cell acute lymphoblastic leukemia 
+  image: "images/publications/NatureCancer-2024.jpg"
+  group: featured
+
+- id: doi:10.1182/blood.2021013442
+  _title: Single-cell multiomics reveals increased plasticity, resistant populations, and stem-cell–like blasts in KMT2A-rearranged leukemia
+  image: "images/publications/blood-2022.jpg"
+  group: featured
+
+- id: doi:10.1158/2159-8290.CD-20-1677
+  _title: Integrative Bulk and Single-Cell Profiling of Premanufacture T-cell Populations Reveals Factors Mediating Long-Term Persistence of CAR T-cell Therapy
+  image: "images/publications/CancerDiscovery-2021.jpg"
+  group: featured
+
+- id: doi:10.1016/j.celrep.2019.11.065
+  _title: Spatial Genome Re-organization between Fetal and Adult Hematopoietic Stem Cells
+  image: "images/publications/CellRep-2019.jpg"
+  group: featured
+
+- id: doi:10.1038/nmeth.3488
+  _title: A microfluidic device for epigenomic profiling using 100 cells
+  image: "images/publications/NatureMethods-2015.jpg"
+  group: featured
+
