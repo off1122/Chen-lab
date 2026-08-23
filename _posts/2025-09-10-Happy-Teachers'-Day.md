@@ -2,7 +2,7 @@
 title: Happy Teachers' Day!
 image: images/blog/teacherday.jpg
 author: Mengke-Zhang
-tags: Lab Life
+tags: Lab-Life
 ---
 
 It was our second Teachers' Day celebration with Prof. Chen! 
