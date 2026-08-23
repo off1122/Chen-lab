@@ -6,6 +6,10 @@ principal-investigator:
   icon: fa-solid fa-microscope
   description: Principal Investigator
 
+research-assistant-professor:
+  icon: fa-solid fa-glasses
+  description: Research Assistant Professor
+
 postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
@@ -14,13 +18,25 @@ phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
-undergrad:
-  icon: fa-solid fa-user-graduate
-  description: Undergraduate Student
+master:
+  icon: fa-solid fa-graduation-cap
+  description: Master's Student
 
-programmer:
+visiting-student:
+  icon: fa-solid fa-user-graduate
+  description: Visiting Student
+
+visiting-scholar:
+  icon: fa-solid fa-graduation-cap
+  description: Visiting Scholar
+
+research-assistant:
+  icon: fa-solid fa-user-graduate
+  description: Research Assistant
+
+se:
   icon: fa-solid fa-code
-  description: Programmer
+  description: Software Engineer
 
 mascot:
   icon: fa-solid fa-dog
