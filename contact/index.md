@@ -7,15 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our laboratory is located at Room 112, Building 2，Haihe Laboratory of Cell Ecosystem，Yuexin Road, Binhai Hi-Tech Industrial Development Area, Tianjin，300480 China
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="chenchangya@ihcams.ac.cn"
+  link="chenchangya@ihcams.ac.cn"
 %}
 {%
   include button.html
@@ -26,8 +24,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  tooltip="Our location on Amap for easy navigation"
+  link="https://www.amap.com/place/B0H0D59ZQT"
 %}
 
 {% include section.html %}
