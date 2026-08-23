@@ -5,8 +5,8 @@ role: master
 aliases:
   - Jintao Zhang
 links:
-  email: zhangjintao@ihcams.ac.cn
-affiliation: B.M. in Clinical Medicine, ZhengZhou University
+  email: zhangjt0109@163.com
+affiliation: B.M. in Clinical Medicine, Dalian medical university
 ---
 
 Jintao is currently pursuing a master's degree in medicine at Peking Union Medical College. His research interests lie in bioinformatics and single-cell genomics and he is deeply interested in the study of hematological diseases.
