@@ -27,7 +27,7 @@ We embrace a multidisciplinary approach to address pressing challenges in hemato
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See our Research"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -37,7 +37,7 @@ We embrace a multidisciplinary approach to address pressing challenges in hemato
 
 {%
   include feature.html
-  image="images/photos/research.png"
+  image="images/photos/research.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -60,7 +60,7 @@ We are committed to scientific rigor, transparency, and reproducibility in advan
 
 {%
   include feature.html
-  image="images/photos/publication.png"
+  image="images/photos/publication.jpg"
   link="publications"
   title="Our publications"
   flip=true
@@ -85,7 +85,7 @@ We are growing and actively recruiting outstanding researchers across all career
 
 {%
   include feature.html
-  image="images/photos/group_photo.jpg"
+  image="images/photos/group.jpg"
   link="team"
   title="Our Team"
   text=text
