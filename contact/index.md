@@ -29,7 +29,6 @@ Our laboratory is located at Room 312, Building 2，Haihe Laboratory of Cell Eco
 {%
   include figure.html
   image="images/contact/contact1.jpg"
-  caption="Lorem ipsum"
 %}
 
 {% endcapture %}
@@ -39,12 +38,32 @@ Our laboratory is located at Room 312, Building 2，Haihe Laboratory of Cell Eco
 {%
   include figure.html
   image="images/contact/contact2.jpg"
-  caption="Lorem ipsum"
 %}
 
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
 
+{% comment %}
+
+{% include section.html dark=true %}
+
+{% capture col1 %}
+Lorem ipsum dolor sit amet  
+consectetur adipiscing elit  
+sed do eiusmod tempor
+{% endcapture %}
+
+{% capture col2 %}
+Lorem ipsum dolor sit amet  
+consectetur adipiscing elit  
+sed do eiusmod tempor
+{% endcapture %}
+
+{% capture col3 %}
+Lorem ipsum dolor sit amet  
+consectetur adipiscing elit  
+sed do eiusmod tempor
+{% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
