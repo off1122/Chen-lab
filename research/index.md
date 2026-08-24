@@ -39,7 +39,7 @@ Although immunotherapy offers new hope to leukemia patients, drug resistance rem
 
 {%
   include feature.html
-  image="images/research2.jpg"
+  image="images/research/research2.jpg"
   text=text
 %}
 
