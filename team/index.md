@@ -15,9 +15,9 @@ We are committed to fostering an inclusive and collaborative environment where d
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 {% include list.html data="members" component="portrait" filter="role == 'research-assistant-professor'" %}
 {% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
+{% include list.html data="members" component="portrait" filter="role == 'research-assistant'" %}
 {% include list.html data="members" component="portrait" filter="role == 'phd'" %}
 {% include list.html data="members" component="portrait" filter="role == 'master'" %}
-{% include list.html data="members" component="portrait" filter="role == 'research-assistant'" %}
 {% include list.html data="members" component="portrait" filter="role == 'visiting-scholar'" %}
 {% include list.html data="members" component="portrait" filter="role == 'visiting-student'" %}
 
