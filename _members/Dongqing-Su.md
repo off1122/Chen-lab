@@ -1,5 +1,5 @@
 ---
-name: Dongqing Su (于娜)
+name: Dongqing Su (苏冬晴)
 image: images/photos/DongqingSu.jpg
 role: postdoc
 aliases:
