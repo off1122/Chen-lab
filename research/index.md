@@ -17,7 +17,6 @@ Our research interests lie in integrating single-cell multi-omics and bioinforma
 {% capture text %}
 
 Acute leukemia relapse is driven in part by treatment-resistant leukemic stem cells that are protected by the bone marrow microenvironment. Specialized cellular niches, metabolic interactions, and cell–cell adhesion can create a protective environment that promotes chemotherapy resistance and disease persistence.
-
 Our research aims to uncover how the bone marrow microenvironment shelters residual leukemic stem cells and sustains relapse. By defining the cellular and molecular signals that support leukemia survival, we seek to identify therapeutic strategies that disrupt these protective niches and improve treatment responses.
 
 {% endcapture %}
@@ -30,11 +29,11 @@ Our research aims to uncover how the bone marrow microenvironment shelters resid
 
 {% include section.html %}
 
-### 2. UNKNOWN.
+### 2. T cell heterogeneity in immunotherapy response
 
 {% capture text %}
 
-By leveraging advanced machine learning techniques, ...
+Although immunotherapy offers new hope to leukemia patients, drug resistance remains a challenge. T cells are the primary executors of the adaptive immune response and play a crucial role in leukemia immunotherapy. Our research aims to analyze the evolutionary patterns of T cells in acute leukemia patients undergoing immunotherapy, depict the functional changes in different T cell subpopulations, and reveal intercellular interaction networks and microenvironmental regulatory mechanisms. These findings will contribute to the discovery of novel targets and the optimization of treatment plans, improving response rates to immunotherapy and prolonging disease-free survival in leukemia patients.
 
 {% endcapture %}
 
