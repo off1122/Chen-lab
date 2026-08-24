@@ -1,0 +1,14 @@
+---
+name: Yuzhe Hu (胡玉喆)
+image: images/photos/YuzheHu.jpg
+role: postdoc
+aliases:
+  - Yuzhe Hu
+links:
+  email: huyuzhe@ihcams.ac.cn
+affiliation: Ph.D in mmunology, Peking University
+---
+
+Dr. Yuzhe Hu completed her doctoral research in the Department of Immunology at Peking University Health Science Center, where she received her Ph.D. 
+Her doctoral studies focused on the interdisciplinary field of immunology and bioinformatics, investigating the mechanisms of negative regulation of PD-L1 expression and its applications in immunotherapy. 
+She will continue to engage in the application of immunotherapy in hematological malignancies.
