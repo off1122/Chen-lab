@@ -17,12 +17,6 @@ Our laboratory is located at Room 112, Building 2，Haihe Laboratory of Cell Eco
 %}
 {%
   include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
-{%
-  include button.html
   type="address"
   tooltip="Our location on Amap for easy navigation"
   link="https://www.amap.com/place/B0H0D59ZQT"
@@ -34,7 +28,7 @@ Our laboratory is located at Room 112, Building 2，Haihe Laboratory of Cell Eco
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/contact/contact1.jpg"
   caption="Lorem ipsum"
 %}
 
@@ -44,7 +38,7 @@ Our laboratory is located at Room 112, Building 2，Haihe Laboratory of Cell Eco
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/contact/contact2.jpg"
   caption="Lorem ipsum"
 %}
 
