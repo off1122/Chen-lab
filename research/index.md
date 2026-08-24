@@ -29,11 +29,11 @@ Our research aims to uncover how the bone marrow microenvironment shelters resid
 
 {% include section.html %}
 
-### 2. T cell heterogeneity in immunotherapy response
+### 2. T-cell Dynamics in Immunotherapy Response
 
 {% capture text %}
 
-Although immunotherapy offers new hope to leukemia patients, drug resistance remains a challenge. T cells are the primary executors of the adaptive immune response and play a crucial role in leukemia immunotherapy. Our research aims to analyze the evolutionary patterns of T cells in acute leukemia patients undergoing immunotherapy, depict the functional changes in different T cell subpopulations, and reveal intercellular interaction networks and microenvironmental regulatory mechanisms. These findings will contribute to the discovery of novel targets and the optimization of treatment plans, improving response rates to immunotherapy and prolonging disease-free survival in leukemia patients.
+T cells are key determinants of immunotherapy efficacy in hematological malignancies. Our research focuses on the heterogeneity and dynamic changes of T cells, particularly CAR-T cells, during treatment. By integrating single-cell and multi-omics approaches, we aim to uncover mechanisms of T-cell activation, persistence, dysfunction, immune escape, and treatment resistance, and to identify potential strategies for improving therapeutic efficacy and durability.
 
 {% endcapture %}
 
@@ -45,19 +45,16 @@ Although immunotherapy offers new hope to leukemia patients, drug resistance rem
 
 {% include section.html %}
 
-### 3. Mechanisms and Optimization of CAR-T Therapy.
+### 3. AI for Omics in Hematological Diseases
 
 {% capture text %}
 
-CAR-T cell therapy has emerged as a transformative treatment for hematological diseases, yet its therapeutic efficacy remains limited by diverse mechanisms of treatment resistance, including antigen escape, T-cell dysfunction, inadequate persistence, and suppressive tumor microenvironments.
-Our research aims to dissect the cellular and molecular mechanisms underlying CAR-T responses in hematological malignancies by integrating single-cell multi-omics, longitudinal profiling, and computational approaches. 
-We seek to identify the determinants of CAR-T cell activation, persistence, dysfunction, and therapeutic resistance, as well as the mechanisms governing tumor cell adaptation and immune escape. 
-By uncovering these mechanisms, we aim to develop rational strategies to improve CAR-T cell efficacy, overcome therapeutic resistance, and ultimately advance more durable and effective cellular therapies for patients with hematological diseases.
+Artificial intelligence is transforming the analysis and interpretation of complex omics data. Our research aims to develop and apply AI-driven approaches to integrate single-cell and multi-omics data in hematological diseases, uncover disease-associated cellular states and regulatory networks, and identify biomarkers and therapeutic targets for precision diagnosis and treatment.
 
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/research/CAR-T.jpg"
+  image="images/research/research3.jpg"
   text=text
 %}
