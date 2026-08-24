@@ -12,17 +12,19 @@ Our research interests lie in integrating single-cell multi-omics and bioinforma
 
 {% include section.html %}
 
-### 1. UNKNOWN.
+### 1. Bone Marrow Microenvironment and Leukemia Relapse
 
 {% capture text %}
 
-By leveraging advanced machine learning techniques, ...
+Acute leukemia relapse is driven in part by treatment-resistant leukemic stem cells that are protected by the bone marrow microenvironment. Specialized cellular niches, metabolic interactions, and cell–cell adhesion can create a protective environment that promotes chemotherapy resistance and disease persistence.
+
+Our research aims to uncover how the bone marrow microenvironment shelters residual leukemic stem cells and sustains relapse. By defining the cellular and molecular signals that support leukemia survival, we seek to identify therapeutic strategies that disrupt these protective niches and improve treatment responses.
 
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/research1.jpg"
+  image="images/research/research1.jpg"
   text=text
 %}
 
