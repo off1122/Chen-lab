@@ -6,7 +6,7 @@ aliases:
   - Jintao Zhang
 links:
   email: zhangjt0109@163.com
-affiliation: B.M. in Clinical Medicine, Dalian medical university
+affiliation: B.M. in Medical laboratory technology, Dalian medical university
 ---
 
 Jintao is currently pursuing a master's degree in medicine at Peking Union Medical College. His research interests lie in bioinformatics and single-cell genomics and he is deeply interested in the study of hematological diseases.
