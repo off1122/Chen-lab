@@ -1,1 +1,1 @@
-Sitemap: http://www.cychenlab.org/sitemap.xml
+Sitemap: https://www.cychenlab.org/sitemap.xml
