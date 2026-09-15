@@ -1,4 +1,4 @@
-Visit **[www.cychenlab.org](http://www.cychenlab.org)** 🚀
+Visit **[www.cychenlab.org](https://www.cychenlab.org)** 🚀
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17228741.svg)](https://doi.org/10.5281/zenodo.17228741)
 
